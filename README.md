@@ -125,3 +125,4 @@ Returns true if there has been a fork since last check, false otherwise.
 - [DBIx::Class::Storage::TxnScopeGuard](https://metacpan.org/pod/DBIx::Class::Storage::TxnScopeGuard)
 
 These modules are also handling scope-based transaction. The main difference is this one operates across database handles with different categories.
+
